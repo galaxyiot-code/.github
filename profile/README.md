@@ -1,6 +1,6 @@
 # Welcome to GalaxyIoT 👋
 
-![GalaxyIoT Logo](/logo.jpg) 
+![GalaxyIoT Logo]([/logo.jpg](https://github.com/galaxyiot-code/.github/blob/main/profile/logo.jpg)) 
 
 ## About Us
 
